@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: "Tech Explorer: A Software Engineer's Journey Through Learning, Innovation, and Knowledge"
+title: "A Software Engineer's Journey Through Learning and Technology"
 
 # Your name to show in the footer
 author: Jesús Castillo Izquierdo
@@ -20,11 +20,11 @@ author: Jesús Castillo Izquierdo
 ###############################################
 
 navbar-links:
-  About Me: "https://www.linkedin.com/in/jesusci/"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "techexplorer.com"
+url-pretty: "codeandcuriosity.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
