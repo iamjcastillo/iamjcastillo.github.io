@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: "A Software Engineer's Journey Through Learning and Technology"
+title: "Code & Curiosity"
 
 # Your name to show in the footer
 author: Jesús Castillo Izquierdo
@@ -125,17 +125,17 @@ keywords: "software engineering, technology, learning, exploration, books, growt
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: #1DB954
-navbar-text-col: #FFFFFF
-navbar-border-col: #282828
-page-col: #191414
-text-col: #FFFFFF
-link-col: #1DB954
-hover-col: #FFFFFF
-footer-col: #282828
-footer-text-col: #B3B3B3
-footer-link-col: #FFFFFF
-footer-hover-col: #1DB954
+navbar-col: "#2D2D2D"
+navbar-text-col: "#E6E6E6"
+navbar-border-col: "#4D4D4D"
+page-col: "#1A1A1A"
+text-col: "#D9D9D9"
+link-col: "#00E1FF"
+hover-col: "#1AFFEA"
+footer-col: "#2D2D2D"
+footer-text-col: "#B3B3B3"
+footer-link-col: "#E6E6E6"
+footer-hover-col: "#1AFFEA"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
