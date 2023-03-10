@@ -4,6 +4,7 @@ title: Pair programming with ChatGPT
 subtitle: Can it solve a coding kata? 
 tags: [tdd, software development, test driven development, pair programming, coding katas, ChatGPT]
 comments: true
+image: https://c2e9a7e8.rocketcdn.me/wp-content/uploads/2023/01/openAI-chat-gpt-1.jpg
 ---
 
 As a software developer, I firmly believe that practicing coding katas can greatly enhance our skills in Test-Driven Development (TDD). It's a fantastic way to improve our ability to write clean, efficient, and maintainable code while following the principles of TDD.
