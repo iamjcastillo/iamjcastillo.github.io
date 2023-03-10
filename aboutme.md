@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Software Engineer
+cover-img: https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
 
 My name is Jesús Castillo.
