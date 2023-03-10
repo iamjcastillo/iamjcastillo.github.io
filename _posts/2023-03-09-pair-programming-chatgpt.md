@@ -4,7 +4,7 @@ title: Pair programming with ChatGPT
 subtitle: Can it solve a coding kata? 
 tags: [tdd, software development, test driven development, pair programming, coding katas, ChatGPT]
 comments: true
-thumbnail-img: https://c2e9a7e8.rocketcdn.me/wp-content/uploads/2023/01/openAI-chat-gpt-1.jpg
+thumbnail-img: https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?resize=1200,812
 cover-img: https://static.vecteezy.com/system/resources/previews/017/546/156/original/chatgpt-ai-artificial-intelligence-technology-hitech-concept-chat-gpt-with-smart-bot-open-ai-line-lights-technology-abstract-design-for-chat-web-banner-background-transformation-vector.jpg
 ---
 
