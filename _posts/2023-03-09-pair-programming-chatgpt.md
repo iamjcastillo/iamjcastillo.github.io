@@ -13,15 +13,15 @@ Moreover, I'm a big fan of pair programming, where two developers collaborate on
 Recently, as an experiment, I decided to take my skills to the next level and engage in a coding kata with ChatGPT using the ping-pong pair programming technique. In this post, I'd like to share my experience with this unique form of collaboration and how it helped me sharpen my skills in TDD, coding, and pair programming.
 
 
-### The experiment
+The experiment
 
 First of all, I created the first test and asked it to develop the code.
 ![1](assets/img/pair_programming_chatgpt/1.png){: .mx-auto.d-block :}
 
-Here, I encounter the first interesting finding. ChatGPT provided me the solution to the **whole** kata.
+Here, I encounter the first interesting finding. ChatGPT provided me the solution to the whole kata.
 ![2](assets/img/pair_programming_chatgpt/2.png){: .mx-auto.d-block :}
 
-Following TDD principles I tried to get **only** the necessary code.
+Following TDD principles I tried to get only the necessary code.
 ![3](assets/img/pair_programming_chatgpt/3.png){: .mx-auto.d-block :}
 
 As soon as I entered the next test. It was able to infere the solution again.
@@ -38,7 +38,7 @@ It didn't come as a surprise that, after the third iteration, it was able to get
 ![8](assets/img/pair_programming_chatgpt/8.png){: .mx-auto.d-block :}
 
 
-### Afterthoughts 
+Afterthoughts 
 
 In conclusion, the experiment with ChatGPT was a fun and unique experience that allowed me to practice coding katas in a different way. It was an good opportunity to test my skills in TDD, coding, and pair programming while also exploring the capabilities and limitations of a language model like ChatGPT.
 
