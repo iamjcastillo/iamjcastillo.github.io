@@ -3,7 +3,7 @@ layout: post
 title: Bugfixing and TDD
 tags: [tdd, software development, test driven development, bug fixing]
 comments: true
-cover_img: https://www.nagarro.com/hubfs/Nagarro-March2018-Theme/Author%20Images/Blog%20Images/bug%20fixing%20in%20scrum%20team%20velocity-B.jpg
+cover-img: https://www.nagarro.com/hubfs/Nagarro-March2018-Theme/Author%20Images/Blog%20Images/bug%20fixing%20in%20scrum%20team%20velocity-B.jpg
 thumbnail-img: https://cdn-media-1.freecodecamp.org/images/1*qaM9LjB9PY5pwj9RDtP93g.jpeg
 ---
 
