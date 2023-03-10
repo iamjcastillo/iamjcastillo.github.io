@@ -18,7 +18,7 @@ Recently, as an experiment, I decided to take my skills to the next level and en
 
 ### The experiment
 
-I decided to practice using the well-known [Leap Year kata](https://www.codurance.com/katalyst/leap-year). To get thiings going, I created the first test following the Arrange-Act-Assert pattern. Next, I feed the code to ChatGPT.
+I decided to practice using the well-known [Leap Year kata](https://www.codurance.com/katalyst/leap-year). To get things going, I created the first test following the Arrange-Act-Assert pattern. Next, I feed the code to ChatGPT.
 
 ![1](/assets/img/pair_programming_chatgpt/1.png){: .mx-auto.d-block :}
 
