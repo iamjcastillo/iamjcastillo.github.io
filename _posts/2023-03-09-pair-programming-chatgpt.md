@@ -16,26 +16,26 @@ Recently, as an experiment, I decided to take my skills to the next level and en
 ### The experiment
 
 First of all, I created the first test and asked it to develop the code.
-![1](assets/img/pair_programming_chatgpt/1.png)
+![1](assets/img/pair_programming_chatgpt/1.png){: .mx-auto.d-block :}
 
 Here, I encounter the first interesting finding. ChatGPT provided me the solution to the **whole** kata.
-![2](assets/img/pair_programming_chatgpt/2.png)
+![2](assets/img/pair_programming_chatgpt/2.png){: .mx-auto.d-block :}
 
 Following TDD principles I tried to get **only** the necessary code.
-![3](assets/img/pair_programming_chatgpt/3.png)
+![3](assets/img/pair_programming_chatgpt/3.png){: .mx-auto.d-block :}
 
-As soon as I entered the next test. It was able to infere the solution again.
-![4](assets/img/pair_programming_chatgpt/4.png)
-![5](assets/img/pair_programming_chatgpt/5.png)
+As soon as I entered the next test. It was able to infer the solution again.
+![4](assets/img/pair_programming_chatgpt/4.png){: .mx-auto.d-block :}
+![5](assets/img/pair_programming_chatgpt/5.png){: .mx-auto.d-block :}
 
 At this point, I decided to try a different aproach and start again, using less meaningful names this time. 
-![6](assets/img/pair_programming_chatgpt/6.png)
+![6](assets/img/pair_programming_chatgpt/6.png){: .mx-auto.d-block :}
 
 The new approach worked well for the couple first iterations. 
-![7](assets/img/pair_programming_chatgpt/7.png)
+![7](assets/img/pair_programming_chatgpt/7.png){: .mx-auto.d-block :}
 
 It didn't come as a surprise that, after the third iteration, it was able to get the full solution again. 
-![8](assets/img/pair_programming_chatgpt/8.png)
+![8](assets/img/pair_programming_chatgpt/8.png){: .mx-auto.d-block :}
 
 
 ### Afterthoughts 
