@@ -3,6 +3,8 @@ layout: post
 title: TDD is not about testing
 tags: [tdd, software development, test driven development]
 comments: true
+thumbnail-img: https://marsner.com/wp-content/uploads/test-driven-development-TDD.png
+cover-img: https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191216192618/7-Tips-To-Write-Clean-And-Better-Code-in-2020.png
 ---
 
 Test Driven Development (TDD) is a widely-used software development technique that involves writing automated tests before writing the code that implements a feature. However, one of the biggest misconceptions about TDD is that it's all about testing. In fact, as this article by Lucas da Costa explains, TDD is not primarily about writing tests, but about using tests as a tool for designing and refining code.
