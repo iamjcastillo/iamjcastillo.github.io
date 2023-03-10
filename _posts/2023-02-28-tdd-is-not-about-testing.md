@@ -3,7 +3,6 @@ layout: post
 title: TDD is not about testing
 tags: [tdd, software development, test driven development]
 comments: true
-thumbnail-img: https://marsner.com/wp-content/uploads/test-driven-development-TDD.png
 cover-img: https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191216192618/7-Tips-To-Write-Clean-And-Better-Code-in-2020.png
 ---
 
