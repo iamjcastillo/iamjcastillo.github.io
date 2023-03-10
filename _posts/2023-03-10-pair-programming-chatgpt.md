@@ -15,37 +15,39 @@ Moreover, I'm a big fan of pair programming, where two developers collaborate on
 Recently, as an experiment, I decided to take my skills to the next level and engage in a coding kata with ChatGPT using the ping-pong pair programming technique. In this post, I'd like to share my experience with this unique form of collaboration and how it helped me sharpen my skills in TDD, coding, and pair programming.
 
 
+
 ### The experiment
 
-First of all, I created the first test and asked it to develop the code.
+I decided to practice using the well-known [Leap Year kata](https://www.codurance.com/katalyst/leap-year). To get thiings going, I created the first test following the Arrange-Act-Assert pattern. Next, I feed the code to ChatGPT.
 
 ![1](/assets/img/pair_programming_chatgpt/1.png){: .mx-auto.d-block :}
 
-Here, I encounter the first interesting finding. ChatGPT provided me the solution to the **whole** kata.
+I was surprised to see the first results. As this is a well-known coding kata in the community, ChatGPT was able to infer the **whole** solution.
 
 ![2](/assets/img/pair_programming_chatgpt/2.png){: .mx-auto.d-block :}
 
-Following TDD principles I tried to get **only** the necessary code.
+At this point, I tried to enoforce ChatGPT to follow TDD principles by getting **only** the necessary code.
 
 ![3](/assets/img/pair_programming_chatgpt/3.png){: .mx-auto.d-block :}
 
-As soon as I entered the next test. It was able to infer the solution again.
+Apparently, that made the trick but, as soon as I entered the next test, it provided me with the whole solution again.
 
 ![4](/assets/img/pair_programming_chatgpt/4.png){: .mx-auto.d-block :}
 
 ![5](/assets/img/pair_programming_chatgpt/5.png){: .mx-auto.d-block :}
 
-At this point, I decided to try a different aproach and start again, using less meaningful names this time. 
+At this point, I didn't see the point on continuing with this approach so I tried a different one. I always try to use meaningful names on my code, but maybe this time it was giving too many clues to ChatGPT. I tried hiding the intention of the code by giving the test a more opaque naming.
 
 ![6](/assets/img/pair_programming_chatgpt/6.png){: .mx-auto.d-block :}
 
-The new approach worked well for the couple first iterations. 
+The new approach worked well for the couple first iterations and the results were a bit more promising (bearing in mind that my intention was to follow TDD principles).  
 
 ![7](/assets/img/pair_programming_chatgpt/7.png){: .mx-auto.d-block :}
 
-It didn't come as a surprise that, after the third iteration, it was able to get the full solution again. 
+Later on, it didn't come as a surprise that, after the third iteration, the model was able to get the full solution again. 
 
 ![8](/assets/img/pair_programming_chatgpt/8.png){: .mx-auto.d-block :}
+
 
 
 ### Afterthoughts 
