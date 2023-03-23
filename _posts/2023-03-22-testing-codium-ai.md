@@ -15,7 +15,9 @@ If you're interested in giving Codium AI a try, you can check out the extension 
 
 ### The experiment
 
-I decided to undertake a practical exercise utilizing the renowned Gilded Rose kata, which may be accessed via the following link: [https://github.com/matthewmorgan/gilded-rose-python-with-tests](https://github.com/matthewmorgan/gilded-rose-python-with-tests). In order to initiate this exercise, I established the repository and subsequently utilized Codium AI to generate the first tests. This tool offers a variety of options for configuring the testing process, although I ultimately opted to proceed with the default settings.
+I decided to undertake a practical exercise utilizing the renowned Gilded Rose kata, which may be accessed via the following link: [https://github.com/matthewmorgan/gilded-rose-python-with-tests](https://github.com/matthewmorgan/gilded-rose-python-with-tests) 
+
+In order to initiate this exercise, I established the repository and subsequently utilized Codium AI to generate the first tests. This tool offers a variety of options for configuring the testing process, although I ultimately opted to proceed with the default settings.
 
 ![1](/assets/img/codium_ai/c1.JPG){: .mx-auto.d-block :}
 
