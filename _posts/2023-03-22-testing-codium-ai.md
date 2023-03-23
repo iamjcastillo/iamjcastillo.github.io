@@ -15,25 +15,25 @@ If you're interested in giving Codium AI a try, you can check out the extension 
 
 ### The experiment
 
-I decided to practice using the well-known [Gilded Rose kata](https://github.com/matthewmorgan/gilded-rose-python-with-tests). To get things going, I set up the repository and generated the first test with Codium AI. It offers several option to configure how you want those test to be but I decided to go ahead with the default values.
+I decided to undertake a practical exercise utilizing the renowned Gilded Rose kata, which may be accessed via the following link: https://github.com/matthewmorgan/gilded-rose-python-with-tests. In order to initiate this exercise, I established the repository and subsequently utilized Codium AI to generate the first tests. This tool offers a variety of options for configuring the testing process, although I ultimately opted to proceed with the default settings.
 
-![1](/assets/img/codium_ai/c1.png){: .mx-auto.d-block :}
+![1](/assets/img/codium_ai/c1.JPG){: .mx-auto.d-block :}
 
 I was surprised by the initial results, as out of the first six tests that the tool generated, only one exhibited a failure. To be honest, my expectations were more reserved and I had anticipated a comparatively poorer performance.
 
-![2](/assets/img/codium_ai/c2.png){: .mx-auto.d-block :}
+![2](/assets/img/codium_ai/c2.JPG){: .mx-auto.d-block :}
 
 After conducting a few more tests, I made the decision to maintain only the successful tests, in order to check the code coverage.
 
-![3](/assets/img/codium_ai/c3.png){: .mx-auto.d-block :}
+![3](/assets/img/codium_ai/c3.JPG){: .mx-auto.d-block :}
 
 As evidenced by the image above, the initial results were quite promising. With a mere four tests, a substantial proportion of the code's lines were covered. Encouraged by this outcome, I continued incorporating additional tests in order to determine if achieving a full coverage was feasible. The resulting improvement in coverage can be observed below.
 
-![4](/assets/img/codium_ai/c4.png){: .mx-auto.d-block :}
+![4](/assets/img/codium_ai/c4.JPG){: .mx-auto.d-block :}
 
 Throughout the course of this process, I made an interesting observation. Specifically, I noted that the tool continued to encounter difficulties with certain tests. Despite attempting to rectify this by deleting and subsequently regenerating the tests, the tool was ultimately unable to achieve the desired outcome. 
 
-![5](/assets/img/codium_ai/c5.png){: .mx-auto.d-block :}
+![5](/assets/img/codium_ai/c5.JPG){: .mx-auto.d-block :}
 
 
 ### Afterthoughts 
