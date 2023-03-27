@@ -20,8 +20,8 @@ author: Jesús Castillo Izquierdo
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Books: "books"
+  About Me: "aboutme"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"

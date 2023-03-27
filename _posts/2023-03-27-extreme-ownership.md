@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Extreme ownership
-subtitle: Key takeaways 
 categories: books
 ---
 
