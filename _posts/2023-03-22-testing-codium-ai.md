@@ -4,7 +4,7 @@ title: Testing Codium AI
 subtitle: Can it help you refactor? 
 tags: [software development, refactoring, coding katas, Codium AI]
 comments: true
-cover-img: https://repository-images.githubusercontent.com/589189892/08e23b10-2860-48a5-a5a8-5a31deb68f5a
+cover-img: https://media.licdn.com/dms/image/sync/D4E27AQFxq2fD6Ec0Zg/articleshare-shrink_800/0/1679536061167?e=1680562800&v=beta&t=-A26Cd8eOIVqN3CnD8eWqdlvPWHnSj9PiG0-1NAx0js
 ---
 
 Have you ever found yourself needing to refactor legacy code, but just don't having the time or resources to test every possible scenario? As a developer, I know firsthand the importance of thorough testing when it comes to refactoring legacy code. That's why I'm excited to try out **Codium AI**, a tool that promises helping to generate test which can be used as a safety net for refactoring legacy code, without requiring an excessive amount of time or effort.
