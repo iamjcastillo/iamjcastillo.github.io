@@ -20,7 +20,7 @@ author: Jesús Castillo Izquierdo
 ###############################################
 
 navbar-links:
-  Books: "books"
+  Bookshelf: "books"
   About Me: "aboutme"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
