@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Extreme ownership
+subtitle: Lessons in Leadership from Navy SEALs Jocko Willink and Leif Babin
+thumbnail-img: https://images-na.ssl-images-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71nozgTmmwL._AC_UL210_SR210,210_.jpg
 categories: books
 ---
 
