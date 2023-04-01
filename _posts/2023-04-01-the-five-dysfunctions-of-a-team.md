@@ -15,16 +15,21 @@ Through a fictional story of a new CEO and the team she is tasked to lead, Patri
 
 
 **Lack of trust** 
+
 The foundation of real teamwork. Without trust, team members are unwilling to be vulnerable and engage in meaningful conversations. To overcome this dysfunction, team members need to rely on each other, feel safe to share their thoughts and opinions, and collaborate effectively.
 
-**Fear of conflict** 
+**Fear of conflict**
+
 Another major dysfunction that prevents teams from addressing important issues and finding solutions. Healthy debates are critical to address critical issues and find solutions.
 
 **Lack of commitment** 
+
 If team members don't feel involved in decision-making processes they won't fully buy into the team's goals. This can lead to indecisiveness and lack of progress. To overcome this, teams need to ensure that everyone is aligned with the mission and involved in decision-making.
 
 **Avoidance of accountability** 
+
 When team members don't take ownership of their actions or responsibilities. It can lead to a lack of effort and progress. To overcome this, teams need to establish clear expectations and hold team members accountable for their actions.
 
 **Inattention to results** 
+
 Ego always plais a role. This happens when team members prioritize personal goals over team goals. This can lead to a lack of progress and failure to achieve team objectives. To overcome this, teams need to establish clear goals and priorities and ensure that everyone is aligned with the team's values and priorities.
